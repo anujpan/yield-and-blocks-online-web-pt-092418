@@ -1,4 +1,4 @@
-array = [1, 2, 3, 4]
+array = ["Tim", "Tom", "Jim"]
 
 def hello_t(array)
   i = 0
