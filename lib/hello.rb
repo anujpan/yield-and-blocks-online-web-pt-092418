@@ -1,3 +1,5 @@
+array = {1,2,3,4}
+
 def hello_t(array)
   i = 0
   
